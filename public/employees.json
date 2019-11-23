@@ -1,0 +1,60 @@
+{
+	"employees": [
+		{
+			"id": 1,
+			"firstName": "Amous",
+			"lastName": "Dawud",
+			"position": "Relational Resonance Facilitator",
+			"isBlocked": false,
+			"img": "#"
+		},
+		{
+			"id": 2,
+			"firstName": "Clara",
+			"lastName": "Duncan",
+			"position": "International Operations Mobility",
+			"isBlocked": false,
+			"img": "#"
+		},
+		{
+			"id": 3,
+			"firstName": "Elmer",
+			"lastName": "Spears",
+			"position": "Senior Security Agent",
+			"isBlocked": true,
+			"img": "#"
+		},
+		{
+			"id": 4,
+			"firstName": "Farrah",
+			"lastName": "Hyde",
+			"position": "National Liason Technician",
+			"isBlocked": false,
+			"img": "#"
+		},
+		{
+			"id": 5,
+			"firstName": "Kendal",
+			"lastName": "Schwartz",
+			"position": "Future Identity Designer",
+			"isBlocked": false,
+			"img": "#"
+		},
+		{
+			"id": 6,
+			"firstName": "Reef",
+			"lastName": "Gamble",
+			"position": "Customer Group Planner",
+			"isBlocked": false,
+			"img": "#"
+		},
+		{
+			"id": 7,
+			"firstName": "Saba",
+			"lastName": "Johns",
+			"position": "Regional Tactics Architect",
+			"isBlocked": false,
+			"img": "#"
+		}
+	]
+}

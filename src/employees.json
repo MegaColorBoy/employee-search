@@ -1,0 +1,45 @@
+{
+	"employees": [{
+			"name": "Amous Dawud",
+			"role": "Relational Resonance Facilitator",
+			"isBlocked": false,
+			"img": "#"
+		},
+		{
+			"name": "Clara Duncan",
+			"role": "International Operations Mobility",
+			"isBlocked": false,
+			"img": "#"
+		},
+		{
+			"name": "Elmer Spears",
+			"role": "Senior Security Agent",
+			"isBlocked": false,
+			"img": "#"
+		},
+		{
+			"name": "Farrah Hyde",
+			"role": "National Liason Technician",
+			"isBlocked": false,
+			"img": "#"
+		},
+		{
+			"name": "Kendal Schwartz",
+			"role": "Future Identity Designer",
+			"isBlocked": false,
+			"img": "#"
+		},
+		{
+			"name": "Reef Gamble",
+			"role": "Customer Group Planner",
+			"isBlocked": false,
+			"img": "#"
+		},
+		{
+			"name": "Saba Johns",
+			"role": "Regional Tactics Architect",
+			"isBlocked": false,
+			"img": "#"
+		}
+	]
+}
